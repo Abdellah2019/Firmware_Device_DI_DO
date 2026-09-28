@@ -31,8 +31,8 @@
 // DEVICE INFORMATION
 // ============================================================
 
-#define DEVICE_MANUFACTURER "ARDUINO"
-#define DEVICE_MODEL        "UNO-DIO"
+#define DEVICE_MANUFACTURER "BOSON-ENGINEERING"
+#define DEVICE_MODEL        "BOSON-DIO"
 #define DEVICE_SERIAL       "001"
 #define FIRMWARE_VERSION    "1.0.0"
 #define SCPI_VERSION        "1999.0"
